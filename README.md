@@ -17,3 +17,7 @@ option-price 0.2.0
 #Features of code:
 sourcing data: 
 downloaded prices for all positons (yahoo finance data reader)
+
+
+#License GNU
+#Contributors Jason Muenzen www.linkedin.com/in/jason-muenzen-mba-frm

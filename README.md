@@ -1,6 +1,6 @@
 # eq_option_pricer
 
-Using Python created an analysis of equity option using Black-scholes, binomial, and monte carlo methods.
+Using Python created an analysis of equity option using Black-Scholes, binomial, and monte carlo methods.
 Prices for the underlyer are pulled using pandas data_reader and are then used to price the call or put.
 
 
